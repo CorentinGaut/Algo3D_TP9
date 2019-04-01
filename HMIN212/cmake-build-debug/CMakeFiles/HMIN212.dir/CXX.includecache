@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/elouchez/Documents/M1/S2/HMIN212/TP1/Point.hpp
+Vector.hpp
+/home/elouchez/Documents/M1/S2/HMIN212/TP1/Vector.hpp
+
+/home/elouchez/Documents/M1/S2/HMIN212/TP1/Vector.hpp
+
+/home/elouchez/Documents/M1/S2/HMIN212/TP2/TP_OPENGL.cpp
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+../TP1/Point.hpp
+/home/elouchez/Documents/M1/S2/HMIN212/TP1/Point.hpp
+iostream
+-
+GL/glut.h
+-
+

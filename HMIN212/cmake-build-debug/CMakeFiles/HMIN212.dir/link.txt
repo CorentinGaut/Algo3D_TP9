@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -lglut -lGL -lGLU CMakeFiles/HMIN212.dir/TP2/TP_OPENGL.cpp.o  -o HMIN212 
